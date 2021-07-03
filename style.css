@@ -121,4 +121,8 @@ h3 {
   .email-link {
     margin-bottom: 20px;
   }
+
+  .image {
+    display: none;
+  }
 }
